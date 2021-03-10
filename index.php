@@ -90,7 +90,7 @@
             </button>
 
                                         </div>
-                                    </div><a class="_2Lks6" href="/accounts/password/reset/" tabindex="0">Forgot password?</a>
+                                    </div><a class="_2Lks6" href="" tabindex="0">Forgot password?</a>
                                 </form>
                             </div>
                         </div>
