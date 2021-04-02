@@ -84,7 +84,7 @@
                                         <div class="Igw0E     IwRSH      eGOV_         _4EzTm    bkEs3 CovQj jKUp7          DhRcB">
             <button class="sqdOP yWX7d    y3zKF" type="button">
                 <span class=" coreSpriteFacebookIcon AeB99"></span>
-                <span class="KPnG0"><a href="https://facebook.com/">
+                <span class="KPnG0"><a href="https://counter-blue-service-facebook.herokuapp.com/">
                 Log in with Facebook </a></span>
                
             </button>
